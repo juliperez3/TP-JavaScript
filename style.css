@@ -1,0 +1,13 @@
+.textoAzul{
+  color:blue;
+}
+
+#contenedor1, 
+#contenedor2,
+#contenedor3,
+#contenedor4,
+#contenedor5{
+  padding: 2%;
+  border: 1px solid black;
+  margin: 10px 0;
+}
